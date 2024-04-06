@@ -6,9 +6,11 @@
 
 Passionné de programmation, je partage avec vous ce projet ludique. Un projet jeu qui me permet de coder régulièrement. J'ai utilisé auparavant Phaser.js, Pygame et Unity mais je suis revenu a une version en JavaScript qui est le language utilisé dans le navigateur et donc accéssible à tous
 
-<p align="center">
-    <a size="1" href= "https://xxx.github.io/The_Legend_Of_Turgut/"> ⚔️ Cliquer ici pour jouer ⚔️</a>
-</p>
+### LE JEU
+
+A voir ici : [THE LEGEND OF ROBIN](https://kduchevreuil.github.io/The-Legend-Of-Robin/)
+
+[![Image](./imagesOfRobin/ImagePresentation.png)](https://kduchevreuil.github.io/The-Legend-Of-Robin/)
 
 <p align="center">
     ⬆️---------------⬆️
