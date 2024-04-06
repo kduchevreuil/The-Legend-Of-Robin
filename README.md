@@ -8,10 +8,13 @@ Passionné de programmation, je partage avec vous ce projet ludique. Un projet j
 
 ### LE JEU
 
+<p align="center">
+
 A voir ici : [THE LEGEND OF ROBIN](https://kduchevreuil.github.io/The-Legend-Of-Robin/)
 
 [![Image](./imagesOfRobin/ImagePresentation.png)](https://kduchevreuil.github.io/The-Legend-Of-Robin/)
 
+</p>
 <p align="center">
     ⬆️---------------⬆️
 </p>
@@ -36,20 +39,9 @@ Robin des Bois est un personnage de fiction , héros légendaire et archétypal 
 
 ### D'où vient ce projet ?
 
-Ce jeu est un projet personnel et famillial car j'ai été aidé par mes enfants pour les graphismes, les peripeties et le nom du personnage principale. En plus des nombreux dessins, papercraft et autres activités manuelles, j'ai voulu leur faire découvrir le code et le développement web qu'ils comprennent mieux maintenant. J'ai aussi voulu leur faire découvrir la culture turque et l'histoire de ce pays.
+Ce jeu est un projet personnel et famillial car j'ai été aidé par mes enfants pour les graphismes, les peripeties et le nom du personnage principale. En plus des nombreux dessins, papercraft et autres activités manuelles, j'ai voulu leur faire découvrir le code et le développement web qu'ils comprennent mieux maintenant.
 <br>
 En dehors de l'aspect ludique, ce projet me permet de mettre en pratique mes connaissances en JavaScript et de me perfectionner dans ce langage. Il y a eu beaucoup de changement et de version mais à chaque fois j'essaie d'améliorer le code et la qualité du jeu.
-
-<p align="center">
-<br>
-<img 
-            class="IMGlink"
-            src="./imagesOfReadme/turgutPapercraft.jpg"
-            alt="Photo de l'équipe de travail"
-            aria-label="Photo de l'équipe de travail"
-            width= 90%
-        />
-</p>
 
 ### Mes réseaux sociaux
 
